@@ -31,6 +31,7 @@
         {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
       ]
     },
+    
     {
       "id":4,
       "question": "Qual o seu maior foco ?",
@@ -44,10 +45,33 @@
       "question": "Qual o seu apelido de super ser ?",
       "options":[
         {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"},
+        {"id": 2, "name":"Genio, Bilionario, Playboy, Filantropo", "alias":"A"},
+        {"id": 2, "name":"Justiçeiro", "alias":"A"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Qual seria seu arqui-inimigo ?",
+      "options":[
+        {"id": 1, "name":"um bilionario", "alias":"A"},
+        {"id": 2, "name":"alienigena", "alias":"A"},
+        {"id": 3, "name":"ciêntista maluco", "alias":"B"},
+        {"id": 4, "name":"Ditador", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Como seria seu traje ?",
+      "options":[
+        {"id": 1, "name":"tema de algum animal", "alias":"B"},
+        {"id": 2, "name":"armadura", "alias":"A"},
+        {"id": 3, "name":"colorida e com capa ", "alias":"B"},
+        {"id": 4, "name":"com equipamentos e armas", "alias":"A"}
       ]
     }
   ],
+  
   "results":{
     "A": "Você muito provavelmente seria um super vilão!",
     "B": "Você muito provavelmente seria um super Herói!"
